@@ -1,7 +1,5 @@
-# M3_WIPER_CONTROL_SYSTEM
-# M3_Wiper_Control_System
+## M3_WIPER_CONTROL_SYSTEM
 
-# M3_WIPER_CONTROL_SYSTEM
 
  The Wiper speed control system controls the operational speed of the wiper in accordance with the rain condition. It cleans 
  raindrops or any other liquids off the vehicle's windscreen. The prior system required mannual wiper activation, and the 
