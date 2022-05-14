@@ -38,7 +38,6 @@
 # Code Quality
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/cd419d2bf3d642568b29fe1723d3b505)](https://www.codacy.com/gh/bhavanesh-004/M3_WIPER_CONTROL_SYSTEM/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=bhavanesh-004/M3_WIPER_CONTROL_SYSTEM&amp;utm_campaign=Badge_Grade)
 
-
 ### ANALYSIS
 
 
