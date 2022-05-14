@@ -1,4 +1,7 @@
 # M3_WIPER_CONTROL_SYSTEM
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/448f138e280541ef9568469b3f99a2d1)](https://app.codacy.com/gh/bhavanesh-004/M3_WIPER_CONTROL_SYSTEM?utm_source=github.com&utm_medium=referral&utm_content=bhavanesh-004/M3_WIPER_CONTROL_SYSTEM&utm_campaign=Badge_Grade_Settings)
+
 # M3_Wiper_Control_System
 
 # M3_WIPER_CONTROL_SYSTEM
